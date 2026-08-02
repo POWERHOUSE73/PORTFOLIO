@@ -122,7 +122,7 @@ async function loadProjects() {
 loadProjects();
 
 // Live GitHub stats — falls back to the static numbers already in the HTML if the API is unavailable
-const GITHUB_USERNAME = 'dghimirey';
+const GITHUB_USERNAME = 'POWERHOUSE73';
 
 async function loadGithubStats() {
   try {

@@ -58,7 +58,7 @@ Any static host works — Vercel, Netlify, GitHub Pages, Cloudflare Pages. Drag-
 | Hero / About | Written from what Sachin confirmed directly — not the resume |
 | Projects | Real work only: this portfolio, the in-progress Online Clothes Thrifting System, and HTML/CSS practice pages |
 | Skills | Copied exactly from `sachin_bista_premium_cv.html` — HTML, CSS, JavaScript (Learning), C/C++, Java, Software Engineering, Project Management |
-| GitHub stats & activity | Live, fetched client-side from the public GitHub API (`api.github.com/users/dghimirey`) — no hardcoded numbers |
+| GitHub stats & activity | Live, fetched client-side from the public GitHub API (`api.github.com/users/POWERHOUSE73`) — no hardcoded numbers |
 | Education timeline | Araniko English Boarding School (SEE) → St. Joseph English Secondary (+2 Science) → Bhairahawa Multiple Campus (BSc. CSIT, started 2079 B.S.) |
 | Resume | `sachin_bista_premium_cv.html`, opened inline via the Resume button (nav, mobile menu, and hero) |
 | "From My Workspace" | Pulls from `projects.json` — local practice files not yet deployed, shown with a **Copy path** button instead of a dead link |
@@ -87,5 +87,5 @@ Vanilla HTML/CSS/JS with `IntersectionObserver`, `fetch`, and `navigator.clipboa
 
 - **Email:** sachinbista2102@gmail.com
 - **Phone / WhatsApp:** +977 9867418402
-- **GitHub:** 
+- **GitHub:** https://github.com/POWERHOUSE73
 - **Location:** Rupandehi, Nepal
