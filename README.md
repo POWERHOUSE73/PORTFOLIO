@@ -87,5 +87,5 @@ Vanilla HTML/CSS/JS with `IntersectionObserver`, `fetch`, and `navigator.clipboa
 
 - **Email:** sachinbista2102@gmail.com
 - **Phone / WhatsApp:** +977 9867418402
-- **GitHub:** [github.com/dghimirey](https://github.com/dghimirey)
+- **GitHub:** 
 - **Location:** Rupandehi, Nepal
